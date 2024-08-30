@@ -1,6 +1,4 @@
 # Blackjack
-Here is a sample `README` for your Blackjack game:
-
 ---
 
 # Blackjack Game
